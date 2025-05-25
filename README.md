@@ -44,7 +44,7 @@ cd movie_tracker
 ```bash 
 python -m venv venv
 venv\Scripts\activate   # Windows
-# source venv/bin/activate  # macOS/Linux
+venv/bin/activate  # macOS/Linux
 ```
 
 ### 3. Install dependencies 
